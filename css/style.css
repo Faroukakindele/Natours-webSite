@@ -352,7 +352,7 @@ body {
 }
 
 .img:hover {
-  z-index: 20;
+  z-index: 2000;
   transform: scale(1.2);
   outline: 0.6rem solid rgba(40, 180, 133, 0.8);
 }
