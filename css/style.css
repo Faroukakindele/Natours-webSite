@@ -913,7 +913,7 @@ body {
 }
 @media (max-width: 37.5em) {
   html {
-    font-size: 36%;
+    font-size: 40%;
   }
   .header {
     clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%);
