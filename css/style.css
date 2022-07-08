@@ -360,6 +360,7 @@ body {
   .img:hover {
     transform: scale(1.8);
     outline: 0.6rem solid rgba(40, 180, 133, 0.8);
+    z-index: 2000;
   }
   .img-composition:hover .img:not(:hover) {
     transform: scale(1.5);
